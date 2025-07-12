@@ -1,10 +1,10 @@
 # 🧠 TestGenieAI – GenAI-Based Test Case Generator
 
-TestGenieAI is a Generative AI-powered app built with **Streamlit** + **OpenAI API** to generate high-quality UI, API, and functional test cases — instantly!
+TestGenieAI is a Generative AI-powered app built with **Streamlit** + **OpenAI API** to generate high-quality UI, API, functional, Data Quality test cases— instantly! 
 
 ### 🚀 Features
 - Generate **positive & negative test cases**
-- Supports UI, API, and functional testing
+- Supports UI, API, and functional testing , Data Quality
 - Powered by **OpenAI GPT**
 - Beautiful UI built with Streamlit
 - One-click copy for test cases
